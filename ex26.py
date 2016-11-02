@@ -1,3 +1,7 @@
+# Description: Exercise was to fix old code to run correctly. I think I cleared all the errors. Process took about 15 minutes.
+# Requires the source code from ex25, but this can be overcome by deleting any references to ex25. The imported functions are already
+#(if redundantly) created in this script
+
 import ex25
 #This one looks good
 def break_words(stuff):
